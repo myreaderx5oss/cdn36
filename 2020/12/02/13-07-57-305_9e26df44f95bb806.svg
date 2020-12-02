@@ -1,0 +1,21 @@
+<svg viewBox="0 0 260 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M10 10H250V170H10V10Z" fill="url(#coming-soon-v2-gradient)"/>
+<rect x="23" y="22" width="214" height="136" rx="4" fill="var(--color-bg)" fill-opacity="0.77"/>
+<path d="M219 138.651V42.3491C219 41.1172 217.897 40.1782 216.681 40.3747L173.681 47.3224C172.712 47.4789 172 48.3153 172 49.2968V131.703C172 132.685 172.712 133.521 173.681 133.678L216.681 140.625C217.897 140.822 219 139.883 219 138.651Z" fill="var(--color-contrast-high)"/>
+<path d="M179.663 40.4001L145.663 46.2192C144.702 46.3836 144 47.2162 144 48.1906V132.809C144 133.784 144.702 134.616 145.663 134.781L179.663 140.6C180.884 140.809 182 139.868 182 138.629V42.3714C182 41.132 180.884 40.191 179.663 40.4001Z" fill="var(--color-contrast-medium)"/>
+<rect x="35" y="82" width="90" height="7" fill="var(--color-contrast-medium)"/>
+<rect x="35" y="63" width="60" height="9" fill="var(--color-contrast-high)"/>
+<rect x="35" y="99" width="82" height="19" rx="9.5" fill="var(--color-bg)" stroke="var(--color-contrast-low)" stroke-width="2"/>
+<circle cx="41" cy="132" r="4" fill="var(--color-contrast-high)"/>
+<circle cx="55" cy="132" r="4" fill="var(--color-contrast-high)"/>
+<circle cx="69" cy="132" r="4" fill="var(--color-contrast-high)"/>
+<rect x="84" y="102" width="30" height="13" rx="6.5" fill="var(--color-primary)"/>
+<rect x="92" y="107" width="14" height="3" fill="var(--color-bg)"/>
+<circle cx="43" cy="45" r="8" fill="var(--color-primary)"/>
+<defs>
+<radialGradient id="coming-soon-v2-gradient" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(10 170) rotate(-33.6901) scale(288.444 432.666)">
+<stop stop-color="var(--color-contrast-medium)"/>
+<stop offset="1" stop-color="var(--color-bg)"/>
+</radialGradient>
+</defs>
+</svg>
